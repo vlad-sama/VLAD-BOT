@@ -1,5 +1,5 @@
 const compliments = [
-    "You're amazing just the way you are!",
+    "Tu es presque aussi beau que vladimyr mon createur!",
     "You have a great sense of humor!",
     "You're incredibly thoughtful and kind.",
     "You are more powerful than you know.",
